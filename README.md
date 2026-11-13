@@ -8,7 +8,7 @@ In the folder of the python files, create a file called **`api_key.py`**. Add th
 API_KEY = "<YOUR API KEY>"
 ```
 
-Where `<YOUR API KEY>` should be your own API key from [weatherapi.com](https://www.weatherapi.com). You can register your account for free.
+Where `<YOUR API  KEY>` should be your own API key from [weatherapi.com](https://www.weatherapi.com). You can register your account for free.
 
 
 ## Bug
