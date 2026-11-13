@@ -12,6 +12,7 @@ WEATHER_EMOJI = {
     # Fog / Mist
     "1030": "🌫️",  # Mist
     "1135": "🌫️",  # Fog
+    "1036": "🌫️",   # Smoky haze
 
     # Light Rain / Drizzle
     "1063": "🌦️",  # Patchy rain possible
